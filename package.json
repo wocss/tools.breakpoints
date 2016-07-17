@@ -1,0 +1,23 @@
+{
+  "name": "wocss-tools-breakpoints",
+  "version": "1.0.0",
+  "description": "wocss' breakpoints mixins",
+  "main": "_tools.breakpoints.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wochap/tools.breakpoints.git"
+  },
+  "keywords": [
+    "bemit",
+    "css",
+    "itcss",
+    "sass",
+    "wocss"
+  ],
+  "author": "Gean Carlos <gean.marroquin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wochap/tools.breakpoints/issues"
+  },
+  "homepage": "https://github.com/wochap/tools.breakpoints#readme"
+}
