@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wochap/tools.breakpoints/issues"
   },
-  "homepage": "https://github.com/wochap/tools.breakpoints#readme"
+  "homepage": "https://github.com/wochap/tools.breakpoints#readme",
+  "dependencies": {
+    "wocss-settings-breakpoints": "^1.0.0"
+  }
 }
