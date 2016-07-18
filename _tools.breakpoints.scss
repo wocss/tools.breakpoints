@@ -2,6 +2,20 @@
   #Media queries
 \*------------------------------------*/
 
+// Here we set a variable assuming that breakpoints settings are not set
+// globally. If they have been previously been defined, the following variable
+// will be overriden and will be set to `true`.
+
+$wocss-settings-breakpoints: false !default;
+
+@if ($wocss-settings-breakpoints == false) {
+    @warn "Oops! Have you included the wocss-settings-breakpoints module?"
+};
+
+
+
+
+
 /**
  * source: https://github.com/escueladigital/ED-GRID/blob/master/componentes/_mixins.scss
  */
@@ -72,3 +86,12 @@
     @content;
   }
 }
+
+
+
+
+
+// If we have included this file, set a variable to tell the rest of the
+// framework that we have some breakpoints mixins.
+
+$wocss-tools-breakpoints: true;
