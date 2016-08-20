@@ -9,7 +9,7 @@
 $wocss-settings-breakpoints: false !default;
 
 @if ($wocss-settings-breakpoints == false) {
-    @warn "Oops! Have you included the wocss-settings-breakpoints module?"
+  @warn "Oops! Have you included the wocss-settings-breakpoints module?"
 };
 
 
