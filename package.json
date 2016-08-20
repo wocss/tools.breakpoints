@@ -5,7 +5,7 @@
   "main": "_tools.breakpoints.scss",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wochap/tools.breakpoints.git"
+    "url": "git+https://github.com/wocss/tools.breakpoints.git"
   },
   "keywords": [
     "bemit",
@@ -17,9 +17,9 @@
   "author": "Gean Carlos <gean.marroquin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wochap/tools.breakpoints/issues"
+    "url": "https://github.com/wocss/tools.breakpoints/issues"
   },
-  "homepage": "https://github.com/wochap/tools.breakpoints#readme",
+  "homepage": "https://github.com/wocss/tools.breakpoints#readme",
   "dependencies": {
     "wocss-settings-breakpoints": "^1.0.0"
   }
