@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> Now wocss uses https://github.com/sass-mq/sass-mq as its media queries mixins
+
 # Breakpoints
 
 > Tool

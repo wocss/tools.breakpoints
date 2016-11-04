@@ -1,7 +1,7 @@
 {
   "name": "wocss-tools-breakpoints",
   "version": "1.0.2",
-  "description": "wocss' breakpoints mixins",
+  "description": "[DEPRECATED] wocss' breakpoints mixins",
   "main": "_tools.breakpoints.scss",
   "repository": {
     "type": "git",
